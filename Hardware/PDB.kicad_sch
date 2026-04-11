@@ -3220,7 +3220,7 @@
 	)
 	(text "MOUNTING HOLES"
 		(exclude_from_sim no)
-		(at 36.322 159.004 0)
+		(at 35.306 159.004 0)
 		(effects
 			(font
 				(size 3 3)
@@ -3232,7 +3232,7 @@
 	)
 	(text "INTERFACE"
 		(exclude_from_sim no)
-		(at 163.576 90.424 0)
+		(at 163.576 90.932 0)
 		(effects
 			(font
 				(size 3 3)
@@ -3256,7 +3256,7 @@
 	)
 	(text "5V REGULATOR"
 		(exclude_from_sim no)
-		(at 32.258 91.44 0)
+		(at 32.258 90.932 0)
 		(effects
 			(font
 				(size 3 3)
@@ -3268,7 +3268,7 @@
 	)
 	(text "1.8V REGULATOR"
 		(exclude_from_sim no)
-		(at 158.496 18.288 0)
+		(at 159.258 18.288 0)
 		(effects
 			(font
 				(size 3 3)
@@ -4732,7 +4732,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 124.46) (xy 171.45 125.73)
+			(xy 172.72 123.19) (xy 172.72 125.73)
 		)
 		(stroke
 			(width 0)
@@ -5042,7 +5042,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 125.73) (xy 165.1 125.73)
+			(xy 172.72 125.73) (xy 165.1 125.73)
 		)
 		(stroke
 			(width 0)
@@ -8237,7 +8237,7 @@
 	)
 	(symbol
 		(lib_id "power:PWR_FLAG")
-		(at 171.45 124.46 0)
+		(at 172.72 123.19 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8246,7 +8246,7 @@
 		(dnp no)
 		(uuid "86061fb5-d884-41df-9173-61a1542c934a")
 		(property "Reference" "#FLG04"
-			(at 171.45 122.555 0)
+			(at 172.72 121.285 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8255,7 +8255,7 @@
 			)
 		)
 		(property "Value" "PWR_FLAG"
-			(at 171.45 120.65 0)
+			(at 172.72 119.38 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8263,7 +8263,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 124.46 0)
+			(at 172.72 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8272,7 +8272,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 124.46 0)
+			(at 172.72 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8281,7 +8281,7 @@
 			)
 		)
 		(property "Description" "Special symbol for telling ERC where power comes from"
-			(at 171.45 124.46 0)
+			(at 172.72 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
