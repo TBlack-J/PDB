@@ -1542,7 +1542,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C7"
-			(at 0.085 -1.825 180)
+			(at 3.467 0.061 180)
 			(layer "F.SilkS")
 			(uuid "3603459a-c369-4364-bef7-7cc2cbe1f5c5")
 			(effects
@@ -2131,7 +2131,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C6"
-			(at 0.075 1.725 0)
+			(at 3.447 -0.103 0)
 			(layer "F.SilkS")
 			(uuid "770d3b3a-b851-4497-bac5-a8b927ccd880")
 			(effects
@@ -2620,7 +2620,7 @@
 		(descr "Capacitor SMD 1206 (3216 Metric), square (rectangular) end terminal, IPC-7351 nominal, (Body size source: IPC-SM-782 page 76, https://www.pcb-3d.com/wordpress/wp-content/uploads/ipc-sm-782a_amendment_1_and_2.pdf), generated with kicad-footprint-generator")
 		(tags "capacitor")
 		(property "Reference" "C5"
-			(at -0.195 -1.815 180)
+			(at -3.391 0.053 180)
 			(layer "F.SilkS")
 			(uuid "c728cf40-f093-400b-b110-4f5aeebbfee1")
 			(effects
@@ -8250,7 +8250,7 @@
 		(descr "Choke, SMD, 6.3x6.3mm 3mm height")
 		(tags "Choke SMD")
 		(property "Reference" "L3"
-			(at -4.415 -2.325 180)
+			(at -2.521 -3.985 180)
 			(layer "B.SilkS")
 			(uuid "54a9a13d-b4e4-4931-8c81-85a3c81f372f")
 			(effects
